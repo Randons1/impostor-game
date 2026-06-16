@@ -133,10 +133,11 @@ src/
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por [Vitor Norton](https://github.com/VitorNorton).
-
+👨‍💻 Desenvolvedores
+|                  |                                                |
+| ---------------- | ---------------------------------------------- |
+| Vitor Norton | @VitorNorton |
+| Vitor Braga  | @Randons1
 ---
 
 ## 📄 Licença
